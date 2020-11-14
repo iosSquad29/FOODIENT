@@ -20,7 +20,7 @@ better what is inside the food they are buying which helps to eat healthier and
 avoid health problems in the long run. 
 
 ## Product Spec
-###1. User Stories 
+### 1. User Stories 
 
 ** Required must-have Stories ** 
 
