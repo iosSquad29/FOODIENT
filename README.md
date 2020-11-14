@@ -3,9 +3,7 @@ Food label scanner
 
 ## Overview
 ### Description
-
-The app scan food labels and bring more in depth information so the user
-know what the ingredients in the label means and how good/health it is. 
+The app scans food labels and brings more in-depth information so the user knows what the ingredients in the label mean and how good/healthy it is.
 
 ### App Evaluation
 
