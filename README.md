@@ -52,4 +52,4 @@ chemicals, too much sugar.
 
 
 ## Wireframes
-<img src="https://i.imgur.com/HuaKAOr.jpg" title="source: imgur.com" /></a>" width=800><br>
+<img src="https://i.imgur.com/HuaKAOr.jpg" title="source: imgur.com" /></a> width=800><br>
