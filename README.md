@@ -24,15 +24,13 @@ avoid health problems in the long run.
 
 **Required must-have Stories** 
 
-* User doesn`t need to login to use the app
-* User scan the label and a new window will bring information about the 
-contents of the food label 
-* An introductory page, a page with the camera and a third one with the information
-* Settings (scan/camera, information)
+* User hits a button on introductory page to scan food product
+* User can scan the barcode label on the product on the camera scanner page
+* Info page where all the information about the contents of the product would be displayed in a table view
 
 ### 2. Screen Archetypes
-* main page with a button to scan the label
-* Page with the camera to read the label
+* Main page with a button to scan the label
+* Page with the scan camera to read the label
 * Third page with the information about the label and possible break down of 
 chemicals, too much sugar. 
 
