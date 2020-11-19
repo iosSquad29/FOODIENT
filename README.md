@@ -39,13 +39,13 @@ chemicals, too much sugar.
 
 ### 3. Navigation
 
-**Tab Navigation ** (Tab to Screen)
+**Tab Navigation** (Tab to Screen)
 
 * Main page
 * camera
 * description page
 
-**Flow Navigations ** (Screen to Screen)
+**Flow Navigations** (Screen to Screen)
 
 * Scan Now button - > Camera 
 * Camera - > description page 
