@@ -22,7 +22,7 @@ avoid health problems in the long run.
 ## Product Spec
 ### 1. User Stories 
 
-** Required must-have Stories ** 
+**Required must-have Stories** 
 
 * User doesn`t need to login to use the app
 * User scan the label and a new window will bring information about the 
