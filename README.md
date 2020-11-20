@@ -51,3 +51,18 @@ chemicals, too much sugar.
 
 ## Wireframes
 <img src="https://i.imgur.com/HuaKAOr.jpg" title="source: imgur.com" /></a>
+
+## Schema
+### Models
+
+### FoodItem
+
+|     Property      |       Type        |          Description             |
+|   -------------   |   -------------   |   ---------------------------    |
+|     projectId     |     string        |   Unique id for the user post    |                 
+|     ingredients   |     array         |   List of product ingredients    |
+|     barcodeId     |     string        |   Barcode id of food item        |                 
+|     Image         |     image         |   Image of product               |
+|     Allergen list |     array         |   List of product allergens      |      
+|     createdAt     |     DateTime      |   Date post is created           | 
+|     updatedAt     |     DateTime      |   Last post update               |
